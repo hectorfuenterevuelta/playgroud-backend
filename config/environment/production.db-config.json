@@ -1,0 +1,5 @@
+{
+    "path": "localhost",
+    "dbName": "playground",
+    "port": 27017
+}

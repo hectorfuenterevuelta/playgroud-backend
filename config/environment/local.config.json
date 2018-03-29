@@ -1,0 +1,21 @@
+{
+  "server": {
+    "hostName": "localhost",
+    "port": 3000,
+    "jwtSecret": "MyS3cr3tK3Y",
+    "jwtSession": {
+      "session": false
+    }
+  },
+
+  "logger": {
+    "logFolder": "logs",
+    "level": "debug"
+  },
+
+  "db": {
+    "path": "localhost",
+    "dbName": "playground",
+    "port": 27017
+  }
+}
