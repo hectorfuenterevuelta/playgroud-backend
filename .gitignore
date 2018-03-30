@@ -3,6 +3,9 @@
 # logs
 /logs
 
+# auto generate docs
+/public/apidoc
+
 # compiled output
 /dist
 /dist-server

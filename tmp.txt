@@ -1,0 +1,11 @@
+
+> playground-backend@0.0.1 pretest D:\web\playground-backend
+> eslint --ignore-path .gitignore .
+
+
+D:\web\playground-backend\controllers\tokens.controller.js
+  75:55  error  'res' is defined but never used                no-unused-vars
+  75:60  error  Unexpected empty async function 'removeToken'  no-empty-function
+
+✖ 2 problems (2 errors, 0 warnings)
+

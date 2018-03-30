@@ -85,6 +85,9 @@ app.use(errorhandler());
 //   }
 // }
 
+// for apidocs
+app.use(express.static('public'));
+
 app.use('/', routes);
 
 // Run server
